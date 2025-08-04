@@ -29,6 +29,7 @@
 
 ```bash
 pip install cryptography pyperclip
+git clone https://github.com/sunnamsriram1/RANSOM_E_V6_TOOL.git
 bash Ransome_eE_4v_3V.py
 ```
 ## అప్పుడు స్క్రిప్ట్ అడుగుతుంది:
