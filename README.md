@@ -26,6 +26,8 @@
 ---
 
 ## ⚙️ అవసరమైన Python ప్యాకేజీలు
+## ▶️ వాడే విధానం
+## ⚠️ హెచ్చరిక PASSWORD 1234
 
 ```bash
 pip install cryptography pyperclip
