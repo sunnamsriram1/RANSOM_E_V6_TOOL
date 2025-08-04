@@ -29,7 +29,7 @@
 
 ```bash
 pip install cryptography pyperclip
-bash tool name.py
+bash Ransome_eE_4v_3V.py
 ```
 ## అప్పుడు స్క్రిప్ట్ అడుగుతుంది:
 
